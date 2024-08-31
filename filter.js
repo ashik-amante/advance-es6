@@ -12,4 +12,4 @@ console.log(even);
 const age = [34,45, 56,76,78,9,33]
 const short = age.find(boyos => boyos > 50)
 console.log(short,typeof short);
-// find only provide the first redult
+// find only provide the first result

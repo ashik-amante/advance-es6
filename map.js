@@ -17,7 +17,7 @@ const result = number.map(double2);
 console.log(result);
 
 
-// short
+// sqare
 const sqre = number.map(x => x*x)
 
 console.log(sqre);
